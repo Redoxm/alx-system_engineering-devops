@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# allow us to connect to my server using the private key with user ubuntu
+
+ssh  ubuntu@18.207.141.178
